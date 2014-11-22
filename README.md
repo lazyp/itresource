@@ -1,5 +1,6 @@
 java技术系列文章
 ===========================
+* [ java swing 界面统一设置字体样式 ] (http://blog.csdn.net/chenxuejiakaren/article/details/7637731)
 
 经典的问答类型的技术帖子
 ===========================
