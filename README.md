@@ -1,6 +1,7 @@
 java技术系列文章
 ===========================
 * [ java swing 界面统一设置字体样式 ] (http://blog.csdn.net/chenxuejiakaren/article/details/7637731)
+* [ Google Java 编程风格指南 ] (http://wuyexiong.github.io/blog/2014/01/26/google-java-style-cn/)
 
 经典的问答类型的技术帖子
 ===========================
@@ -9,4 +10,4 @@ java技术系列文章
 
 其他技术文章推荐
 ===========================
-*[ rpmbuild 打包详细教程 ] (http://www.powerlinuxchina.net/club/thread-1637-1-1.html)
+* [ rpmbuild 打包详细教程 ] (http://www.powerlinuxchina.net/club/thread-1637-1-1.html)
