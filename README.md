@@ -12,3 +12,4 @@ java技术系列文章
 其他技术文章推荐
 ===========================
 * [ rpmbuild 打包详细教程 ] (http://www.powerlinuxchina.net/club/thread-1637-1-1.html)
+* [ 前端代码规范 及 最佳实践 ] (http://blog.jobbole.com/79075/)
