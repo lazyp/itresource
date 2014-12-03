@@ -3,6 +3,7 @@ java技术系列文章
 * [ java swing 界面统一设置字体样式 ] (http://blog.csdn.net/chenxuejiakaren/article/details/7637731)
 * [ Google Java 编程风格指南 ] (http://wuyexiong.github.io/blog/2014/01/26/google-java-style-cn/)
 * [ Quartz应用与集群原理分析 ] (http://tech.meituan.com/mt-crm-quartz.html)
+* [ heavyz的Tomcat学习笔记(包括启动流程分析、启动脚本分析) ] (http://docs.huihoo.com/apache/tomcat/heavyz/tomcat_index.html)
 
 经典的问答类型的技术帖子
 ===========================
