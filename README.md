@@ -15,3 +15,4 @@ java技术系列文章
 ===========================
 * [ rpmbuild 打包详细教程 ] (http://www.powerlinuxchina.net/club/thread-1637-1-1.html)
 * [ 前端代码规范 及 最佳实践 ] (http://blog.jobbole.com/79075/)
+* [ 介绍一个成功的 Git 分支模型 ] (http://www.oschina.net/translate/a-successful-git-branching-model)
