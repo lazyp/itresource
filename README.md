@@ -6,6 +6,11 @@ java技术系列文章
 * [ heavyz的Tomcat学习笔记(包括启动流程分析、启动脚本分析) ] (http://docs.huihoo.com/apache/tomcat/heavyz/tomcat_index.html)
 * [ java8 新特性讲解系列文章 ] (http://my.oschina.net/benhaile/blog?catalog=410404)
 
+
+javascript
+=============================
+* [ javascript中让你迷惑的知识点集合 ] (http://segmentfault.com/blog/liangyi/1190000000642655)
+
 经典的问答类型的技术帖子
 ===========================
 * [【为什么有的代码要用 base64 进行编码？】](http://segmentfault.com/q/1010000000801988)
