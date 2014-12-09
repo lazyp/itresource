@@ -5,6 +5,7 @@ java技术系列文章
 * [ Quartz应用与集群原理分析 ] (http://tech.meituan.com/mt-crm-quartz.html)
 * [ heavyz的Tomcat学习笔记(包括启动流程分析、启动脚本分析) ] (http://docs.huihoo.com/apache/tomcat/heavyz/tomcat_index.html)
 * [ java8 新特性讲解系列文章 ] (http://my.oschina.net/benhaile/blog?catalog=410404)
+* [ Java 从Jar文件中动态加载类 ] (http://my.oschina.net/cloudcoder/blog/354090)
 
 
 javascript
