@@ -7,6 +7,7 @@ java技术系列文章
 * [ java8 新特性讲解系列文章 ] (http://my.oschina.net/benhaile/blog?catalog=410404)
 * [ Java 从Jar文件中动态加载类 ] (http://my.oschina.net/cloudcoder/blog/354090)
 * [ Java并发源码分析 - ThreadPoolExecutor ] (http://onlychoice.github.io/blog/2013/09/13/java-concurrent-source-code-reading-2)
+* [	java ClassLoader 基本原理 ] (http://my.oschina.net/sunchp/blog/355859)
 
 
 javascript
