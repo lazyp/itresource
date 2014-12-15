@@ -8,6 +8,7 @@ java技术系列文章
 * [ Java 从Jar文件中动态加载类 ] (http://my.oschina.net/cloudcoder/blog/354090)
 * [ Java并发源码分析 - ThreadPoolExecutor ] (http://onlychoice.github.io/blog/2013/09/13/java-concurrent-source-code-reading-2)
 * [	java ClassLoader 基本原理 ] (http://my.oschina.net/sunchp/blog/355859)
+* **[ 解决eclipse显示jar源代码中文乱码问题 ] (http://wmljava.iteye.com/blog/1846252)**
 
 
 javascript
