@@ -20,6 +20,7 @@ javascript
 ===========================
 * [【为什么有的代码要用 base64 进行编码？】](http://segmentfault.com/q/1010000000801988)
 * [ 为什么Java单例用enum更好?] (http://segmentfault.com/q/1010000000646806)
+* [ How do I remove a single file from the staging area of Git but not remove it from the index or undo the changes to the file itself? ] (http://stackoverflow.com/questions/1505948/how-do-i-remove-a-single-file-from-the-staging-area-of-git-but-not-remove-it-fro)
 
 其他技术文章推荐
 ===========================
