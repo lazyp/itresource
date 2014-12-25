@@ -10,6 +10,7 @@ java技术系列文章
 * [	java ClassLoader 基本原理 ] (http://my.oschina.net/sunchp/blog/355859)
 * **[ 解决eclipse显示jar源代码中文乱码问题 ] (http://wmljava.iteye.com/blog/1846252)**
 * [ 使用 RMI + ZooKeeper 实现远程调用框架 ] (http://my.oschina.net/huangyong/blog/345164)
+* [ Java 注解指导手册 – 终极向导  ] (http://www.importnew.com/14227.html)
 
 
 javascript
