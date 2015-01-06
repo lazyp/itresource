@@ -14,6 +14,11 @@ java技术系列文章
 * [ 	轻量级分布式 RPC 框架 ] (http://my.oschina.net/huangyong/blog/361751)
 
 
+c
+============================
+*[ C语言宏的特殊用法和几个坑 ] (http://hbprotoss.github.io/posts/cyu-yan-hong-de-te-shu-yong-fa-he-ji-ge-keng.html)
+
+
 javascript
 =============================
 * [ javascript中让你迷惑的知识点集合 ] (http://segmentfault.com/blog/liangyi/1190000000642655)
