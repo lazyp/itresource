@@ -38,3 +38,4 @@ javascript
 * [ ui 层的松耦合 ](http://segmentfault.com/blog/humingx/1190000002461564)
 * [ 介绍一个成功的 Git 分支模型 ] (http://www.oschina.net/translate/a-successful-git-branching-model)
 * [ linux 系统监控、诊断工具之 IO wait ] (http://my.oschina.net/leejun2005/blog/355915)
+* [ 如何书写SHELL脚本 ] http://wklken.github.io/posts/2014/01/12/shell-script-base.html
