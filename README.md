@@ -16,8 +16,8 @@ java技术系列文章
 
 c
 ============================
-*[ C语言宏的特殊用法和几个坑 ] (http://hbprotoss.github.io/posts/cyu-yan-hong-de-te-shu-yong-fa-he-ji-ge-keng.html)
-*[ c语言总结 ] (http://novoland.github.io/c%E5%92%8Cos/2014/07/26/C%E6%80%BB%E7%BB%93%20+%20%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98.html)
+* [ C语言宏的特殊用法和几个坑 ] (http://hbprotoss.github.io/posts/cyu-yan-hong-de-te-shu-yong-fa-he-ji-ge-keng.html)
+* [ c语言总结 ] (http://novoland.github.io/c%E5%92%8Cos/2014/07/26/C%E6%80%BB%E7%BB%93%20+%20%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98.html)
 
 
 javascript
