@@ -42,4 +42,3 @@ javascript
 * [ linux 系统监控、诊断工具之 IO wait ] (http://my.oschina.net/leejun2005/blog/355915)
 * [ 如何书写SHELL脚本 ] (http://wklken.github.io/posts/2014/01/12/shell-script-base.html)
 * [ Git安装(源码安装) ](http://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)
-* [ OpenSSL与ssl数字证书概念贴 ] (http://segmentfault.com/blog/seanlook/1190000002568019)
