@@ -44,3 +44,4 @@ javascript
 * [ Git安装(源码安装) ](http://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)
 * [ Linux下同步工具inotify+rsync使用详解 ] (http://segmentfault.com/blog/seanlook/1190000002427568)
 * [ SSH协议分析以及在linux下免秘钥登录流程 ] (http://my.oschina.net/codeWatching/blog/342253)
+* [ Make 命令教程 ] (http://www.ruanyifeng.com/blog/2015/02/make.html)
