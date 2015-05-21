@@ -25,6 +25,10 @@ javascript
 =============================
 * [ javascript中让你迷惑的知识点集合 ] (http://segmentfault.com/blog/liangyi/1190000000642655)
 
+git
+=============================
+* [ Git push与pull的默认行为 ] (http://segmentfault.com/a/1190000002783245)
+
 经典的问答类型的技术帖子
 ===========================
 * [【为什么有的代码要用 base64 进行编码？】](http://segmentfault.com/q/1010000000801988)
