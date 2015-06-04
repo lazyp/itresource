@@ -28,6 +28,7 @@ javascript
 git
 =============================
 * [ Git push与pull的默认行为 ] (http://segmentfault.com/a/1190000002783245)
+* [ git rebase 衍合详细讲解] (https://git-scm.com/book/zh/v1/Git-分支-分支的衍合)
 
 经典的问答类型的技术帖子
 ===========================
