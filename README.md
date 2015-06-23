@@ -52,3 +52,4 @@ git
 * [ SSH协议分析以及在linux下免秘钥登录流程 ] (http://my.oschina.net/codeWatching/blog/342253)
 * [ Make 命令教程 ] (http://www.ruanyifeng.com/blog/2015/02/make.html)
 * [ 让Vim更好用 for Mac OS X ] (http://hessian.cn/p/1026.html)
+* [ shell 常用招式大全入门篇 ] (http://segmentfault.com/a/1190000002924882)
