@@ -21,6 +21,7 @@ c
 * [ sizeof用法总结(里面有对内存对齐的原因阐述的不错) ] (http://chunyang-wen.github.io/2014/04/24/sizeof-summary/)
 * [ c语言函数指针 ] (http://blog.jobbole.com/44639/)
 * [ 无锁队列 ] (http://coolshell.cn/articles/8239.html)
+* [ linux 静态和动态链接库分析 ] (http://www.cnblogs.com/hzh1024n/archive/2009/09/17/1568357.html)
 
 javascript
 =============================
