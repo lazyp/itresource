@@ -3,5 +3,8 @@
 =====================================
 
 [ http://www.innomysql.net mysql相关的知识 ] (http://www.innomysql.net)
+
 [ 粉丝日记 http://blog.fens.me ] (http://blog.fens.me)
+
+[ linux 命令doc http://linuxtools-rst.readthedocs.org/zh_CN/latest/ ] (http://linuxtools-rst.readthedocs.org/zh_CN/latest/)
 
