@@ -32,12 +32,16 @@ git
 * [ Git push与pull的默认行为 ] (http://segmentfault.com/a/1190000002783245)
 * [ git rebase 衍合详细讲解] (https://git-scm.com/book/zh/v1/Git-分支-分支的衍合)
 
+mongodb
+=============================
+* [ mongodb从入门到精通系列专题 ] (http://codefrom.com/t/mongodb从入门到精通系列专题)
+
 经典的问答类型的技术帖子
 ===========================
 * [【为什么有的代码要用 base64 进行编码？】](http://segmentfault.com/q/1010000000801988)
 * [ 为什么Java单例用enum更好?] (http://segmentfault.com/q/1010000000646806)
 * [ java -jar 搜索classpath的问题 ] (http://segmentfault.com/q/1010000002451440)
-* [ How do I remove a single file from the staging area of Git but not remove it from the index or undo the changes to the file itself? ] (http://stackoverflow.com/questions/1505948/how-do-i-remove-a-single-file-from-the-staging-area-of-git-but-not-remove-it-fro) 
+* [ How do I remove a single file from the staging area of Git but not remove it from the index or undo the changes to the file itself? ] (http://stackoverflow.com/questions/1505948/how-do-i-remove-a-single-file-from-the-staging-area-of-git-but-not-remove-it-fro)
 * [ shell中2>&1之类的命令中'&'是什么意思? ](http://segmentfault.com/q/1010000002454596)
 * [ linux c调试的问题 ](http://segmentfault.com/q/1010000002530474)
 
