@@ -22,6 +22,7 @@ c
 * [ c语言函数指针 ] (http://blog.jobbole.com/44639/)
 * [ 无锁队列 ] (http://coolshell.cn/articles/8239.html)
 * [ linux 静态和动态链接库分析 ] (http://www.cnblogs.com/hzh1024n/archive/2009/09/17/1568357.html)
+* [ linux 守护进程的处理方法 ] (http://stackoverflow.com/questions/17954432/creating-a-daemon-in-linux)
 
 javascript
 =============================
