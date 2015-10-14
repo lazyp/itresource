@@ -61,3 +61,4 @@ mongodb
 * [ Make 命令教程 ] (http://www.ruanyifeng.com/blog/2015/02/make.html)
 * [ 让Vim更好用 for Mac OS X ] (http://hessian.cn/p/1026.html)
 * [ shell 常用招式大全入门篇 ] (http://segmentfault.com/a/1190000002924882)
+* [ 能够提高开发效率的Eclipse实用操作 ] (http://blog.csdn.net/linsongbin1/article/details/48954353?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
