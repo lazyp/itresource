@@ -13,3 +13,5 @@
 [百度运维部 http://op.baidu.com](http://op.baidu.com)
 
 [伯乐在线 http://blog.jobbole.com](http://blog.jobbole.com)
+
+[阮一峰blog http://www.ruanyifeng.com/blog/] (http://www.ruanyifeng.com/blog/)
