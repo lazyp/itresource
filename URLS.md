@@ -1,7 +1,4 @@
 
- 平时自己经常看的一些技术bloger或者网站：
- ======
-
 [ http://www.innomysql.net mysql相关的知识 ](http://www.innomysql.net)
 
 [ 粉丝日记 http://blog.fens.me ](http://blog.fens.me)
@@ -14,4 +11,5 @@
 
 [伯乐在线 http://blog.jobbole.com](http://blog.jobbole.com)
 
-[阮一峰blog http://www.ruanyifeng.com/blog/] (http://www.ruanyifeng.com/blog/)
+[阮一峰blog http://www.ruanyifeng.com/blog] (http://www.ruanyifeng.com/blog/)
+[lvs中文站点 http://zh.linuxvirtualserver.org/] (http://zh.linuxvirtualserver.org/)
