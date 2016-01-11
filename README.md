@@ -53,6 +53,10 @@ TCP
 * [ shell中2>&1之类的命令中'&'是什么意思? ](http://segmentfault.com/q/1010000002454596)
 * [ linux c调试的问题 ](http://segmentfault.com/q/1010000002530474)
 
+tmux
+===========================
+* [tmux快捷键] (https://github.com/hokein/Wiki/wiki/tmux%E5%BF%AB%E6%8D%B7%E9%94%AE)
+
 其他技术文章推荐
 ===========================
 * [ 前端代码规范 及 最佳实践 ] (http://blog.jobbole.com/79075/)
