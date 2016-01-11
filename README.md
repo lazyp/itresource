@@ -55,6 +55,7 @@ TCP
 
 tmux
 ===========================
+* [tmux教程] (http://cenalulu.github.io/linux/tmux/)
 * [tmux快捷键] (https://github.com/hokein/Wiki/wiki/tmux%E5%BF%AB%E6%8D%B7%E9%94%AE)
 
 其他技术文章推荐
