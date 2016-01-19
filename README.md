@@ -44,6 +44,10 @@ TCP
 =============================
 * [  TCP协议中的三次握手和四次挥手(图解) ] (http://blog.csdn.net/whuslei/article/details/6667471)
 
+linux
+=============================
+* [ linux 常用命令收集 ] (http://lazyp.github.io/linux_cmd.html)
+
 经典的问答类型的技术帖子
 ===========================
 * [【为什么有的代码要用 base64 进行编码？】](http://segmentfault.com/q/1010000000801988)
