@@ -12,7 +12,7 @@ java技术系列文章
 * [ 使用 RMI + ZooKeeper 实现远程调用框架 ] (http://my.oschina.net/huangyong/blog/345164)
 * [ Java 注解指导手册 – 终极向导  ] (http://www.importnew.com/14227.html)
 * [ 轻量级分布式 RPC 框架 ] (http://my.oschina.net/huangyong/blog/361751)
-* [ 一个简单的guava cache 例子] (https://github.com/lazyp/examples/blob/master/guava/src/main/java/org/example/guava/CacheExample.java)
+* [ 一个简单的guava cache 例子] (https://github.com/lazyp/examples/blob/master/guava/src/main/java/org/example/guava/GuavaCacheExample.java)
 * [ 你应该知道的 RPC 原理 ] (http://blog.jobbole.com/92290/?object_type=webpage&pos=1&url_type=39)
 * [ JAVA字符串格式化-String.format()的使用 ] (http://blog.csdn.net/lonely_fireworks/article/details/7962171)
 
