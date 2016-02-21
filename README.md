@@ -56,6 +56,7 @@ linux
 * [ How do I remove a single file from the staging area of Git but not remove it from the index or undo the changes to the file itself? ] (http://stackoverflow.com/questions/1505948/how-do-i-remove-a-single-file-from-the-staging-area-of-git-but-not-remove-it-fro)
 * [ shell中2>&1之类的命令中'&'是什么意思? ](http://segmentfault.com/q/1010000002454596)
 * [ linux c调试的问题 ](http://segmentfault.com/q/1010000002530474)
+* [ java中连接mysql时添加Class.forName("com.mysql.jdbc.Driver")的作用？] (https://segmentfault.com/q/1010000004420871) Vicky回答的最详细
 
 tmux
 ===========================
