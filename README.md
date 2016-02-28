@@ -35,6 +35,7 @@ git
 =============================
 * [ Git push与pull的默认行为 ] (http://segmentfault.com/a/1190000002783245)
 * [ git rebase 衍合详细讲解] (https://git-scm.com/book/zh/v1/Git-分支-分支的衍合)
+* [ 25个Git进阶技巧] (http://www.codeceo.com/article/25-git-tips.html)
 
 mongodb
 =============================
