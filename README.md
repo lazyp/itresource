@@ -1,3 +1,7 @@
+基础
+===========================
+* [ 收藏——IO模型的4张经典图例(一看就懂) ] (http://www.blogjava.net/johnnylzb/archive/2012/05/20/378584.html)
+
 java技术系列文章
 ===========================
 * [ java swing 界面统一设置字体样式 ] (http://blog.csdn.net/chenxuejiakaren/article/details/7637731)
