@@ -53,6 +53,10 @@ linux
 =============================
 * [ linux 常用命令收集 ] (http://lazyp.github.io/linux_cmd.html)
 
+Nginx 教程
+=============================
+* [Nginx开发从入门到精通] (http://tengine.taobao.org/book/index.html)
+
 经典的问答类型的技术帖子
 ===========================
 * [【为什么有的代码要用 base64 进行编码？】](http://segmentfault.com/q/1010000000801988)
