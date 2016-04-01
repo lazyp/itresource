@@ -20,6 +20,10 @@ java技术系列文章
 * [ 你应该知道的 RPC 原理 ] (http://blog.jobbole.com/92290/?object_type=webpage&pos=1&url_type=39)
 * [ JAVA字符串格式化-String.format()的使用 ] (http://blog.csdn.net/lonely_fireworks/article/details/7962171)
 
+web相关技术
+===========================
+* [ 定时器在大型web项目中的应用和实现(主要是利用redis的特性来做的) ] (https://segmentfault.com/a/1190000004736079)
+
 c
 ============================
 * [ C语言宏的特殊用法和几个坑 ] (http://hbprotoss.github.io/posts/cyu-yan-hong-de-te-shu-yong-fa-he-ji-ge-keng.html)
@@ -88,3 +92,4 @@ tmux
 * [ 能够提高开发效率的Eclipse实用操作 ] (http://blog.csdn.net/linsongbin1/article/details/48954353?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [ 负载均衡集群 LVS 详解 ](http://liaoph.com/lvs/)
 * [  Linux Rpmbuild 包制作 ] (http://kling.blog.51cto.com/3320545/1239571)
+
