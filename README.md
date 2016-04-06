@@ -75,6 +75,7 @@ tmux
 ===========================
 * [tmux教程] (http://cenalulu.github.io/linux/tmux/)
 * [tmux快捷键] (https://github.com/hokein/Wiki/wiki/tmux%E5%BF%AB%E6%8D%B7%E9%94%AE)
+* [神级命令行软件 Tmux] (http://www.wushxin.top/2016/03/28/%E4%BD%BF%E7%94%A8tmux.html)
 
 其他技术文章推荐
 ===========================
