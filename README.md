@@ -19,6 +19,7 @@ java技术系列文章
 * [ 一个简单的guava cache 例子] (https://github.com/lazyp/examples/blob/master/guava/src/main/java/org/example/guava/GuavaCacheExample.java)
 * [ 你应该知道的 RPC 原理 ] (http://blog.jobbole.com/92290/?object_type=webpage&pos=1&url_type=39)
 * [ JAVA字符串格式化-String.format()的使用 ] (http://blog.csdn.net/lonely_fireworks/article/details/7962171)
+* [ java RMI相关反序列化漏洞整合分析 ] (http://drops.wooyun.org/papers/13056)
 
 web相关技术
 ===========================
