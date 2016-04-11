@@ -57,6 +57,7 @@ TCP
 linux
 =============================
 * [ linux 常用命令收集 ] (http://lazyp.github.io/linux_cmd.html)
+* [ awk简明教程 ] (http://coolshell.cn/articles/9070.html)
 
 Nginx 教程
 =============================
