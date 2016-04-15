@@ -21,6 +21,10 @@ java技术系列文章
 * [ JAVA字符串格式化-String.format()的使用 ] (http://blog.csdn.net/lonely_fireworks/article/details/7962171)
 * [ java RMI相关反序列化漏洞整合分析 ] (http://drops.wooyun.org/papers/13056)
 
+kafka
+===========================
+* [kafka 剖析(一):Kafka背景及架构介绍] (http://www.infoq.com/cn/articles/kafka-analysis-part-1) *入门理解不错*
+
 web相关技术
 ===========================
 * [ 定时器在大型web项目中的应用和实现(主要是利用redis的特性来做的) ] (https://segmentfault.com/a/1190000004736079)
