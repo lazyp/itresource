@@ -14,3 +14,5 @@
 [阮一峰blog http://www.ruanyifeng.com/blog] (http://www.ruanyifeng.com/blog/)
 
 [lvs中文站点 http://zh.linuxvirtualserver.org/] (http://zh.linuxvirtualserver.org/)
+
+[c语言常用函数说明查询手册] (http://c.biancheng.net/cpp/u/hs8/)
