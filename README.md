@@ -99,4 +99,5 @@ tmux
 * [ 能够提高开发效率的Eclipse实用操作 ] (http://blog.csdn.net/linsongbin1/article/details/48954353?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [ 负载均衡集群 LVS 详解 ](http://liaoph.com/lvs/)
 * [  Linux Rpmbuild 包制作 ] (http://kling.blog.51cto.com/3320545/1239571)
+* [ GitHub上那些值得一试的JAVA开源库 ] (http://www.jianshu.com/p/ad40e6dd3789)
 
