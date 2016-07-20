@@ -21,6 +21,7 @@ java技术系列文章
 * [ JAVA字符串格式化-String.format()的使用 ] (http://blog.csdn.net/lonely_fireworks/article/details/7962171)
 * [ java RMI相关反序列化漏洞整合分析 ] (http://drops.wooyun.org/papers/13056)
 * [ Java后端工程师学习大纲 ] (http://www.rowkey.me/blog/2016/06/27/java-backend-study/)
+* [ GitHub上那些值得一试的JAVA开源库 ] (http://www.jianshu.com/p/ad40e6dd3789)
 
 kafka
 ===========================
@@ -100,5 +101,4 @@ tmux
 * [ 能够提高开发效率的Eclipse实用操作 ] (http://blog.csdn.net/linsongbin1/article/details/48954353?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [ 负载均衡集群 LVS 详解 ](http://liaoph.com/lvs/)
 * [  Linux Rpmbuild 包制作 ] (http://kling.blog.51cto.com/3320545/1239571)
-* [ GitHub上那些值得一试的JAVA开源库 ] (http://www.jianshu.com/p/ad40e6dd3789)
 
