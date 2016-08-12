@@ -20,6 +20,8 @@ java技术系列文章
 * [ 你应该知道的 RPC 原理 ] (http://blog.jobbole.com/92290/?object_type=webpage&pos=1&url_type=39)
 * [ JAVA字符串格式化-String.format()的使用 ] (http://blog.csdn.net/lonely_fireworks/article/details/7962171)
 * [ java RMI相关反序列化漏洞整合分析 ] (http://drops.wooyun.org/papers/13056)
+* [ Java后端工程师学习大纲 ] (http://www.rowkey.me/blog/2016/06/27/java-backend-study/)
+* [ GitHub上那些值得一试的JAVA开源库 ] (http://www.jianshu.com/p/ad40e6dd3789)
 
 kafka
 ===========================
