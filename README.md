@@ -22,6 +22,7 @@ java技术系列文章
 * [ java RMI相关反序列化漏洞整合分析 ] (http://drops.wooyun.org/papers/13056)
 * [ Java后端工程师学习大纲 ] (http://www.rowkey.me/blog/2016/06/27/java-backend-study/)
 * [ GitHub上那些值得一试的JAVA开源库 ] (http://www.jianshu.com/p/ad40e6dd3789)
+* [阿里面试回来，想和Java程序员谈一谈 (谈java后端程序员发展路线规划的文章)] (http://www.jianshu.com/p/5681a1f0aad6?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 kafka
 ===========================
