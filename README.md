@@ -32,6 +32,10 @@ web相关技术
 ===========================
 * [ 定时器在大型web项目中的应用和实现(主要是利用redis的特性来做的) ] (https://segmentfault.com/a/1190000004736079)
 
+golang
+============================
+* [go示例教学] (http://www.kancloud.cn/itfanr/go-by-example/81649)
+
 c
 ============================
 * [ C语言宏的特殊用法和几个坑 ] (http://hbprotoss.github.io/posts/cyu-yan-hong-de-te-shu-yong-fa-he-ji-ge-keng.html)
